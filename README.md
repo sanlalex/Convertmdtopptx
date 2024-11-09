@@ -13,4 +13,4 @@ Ce projet permet de convertir un fichier Markdown en une présentation PowerPoin
 Vous pouvez installer les dépendances en utilisant le fichier `requirements.txt` :
 
 ```sh
-pip install -r 
+pip install -r IDIDI
